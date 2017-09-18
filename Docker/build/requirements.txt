@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+# Basic build tools
+apk --no-cache add ninja g++ gcc ccache
+
+# Installations
